@@ -4,7 +4,7 @@ This is a readme that can be created with creating a new repository (repo) (done
 
 This file can be tracked.
 
-Files created, updated, or updated are in the "working" tree.
+Files created, updated, or updated are in the "working" tree. Same line updated as in branch 1.
 
 To add to version control, we create a collection of files that represent a discrete unit of work. That is built in the staging tree.
 
